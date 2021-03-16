@@ -4,6 +4,11 @@ The dataset consists of Movie reviews and corresponding sentiment negative or po
 I have designed a neural network to find out what will happen when weights are initialized to zero.
 My neural network consists of 2 input nodes and one hidden layer comprising two nodes and one output node with weights W1, W2, W3, W4, W5 and W6. The activation function for the two nodes in the hidden layer is taken as the Sigmoid activation function.
 
+The neural network is as follows:
+
+![image](https://user-images.githubusercontent.com/68881506/111374814-8b341100-866b-11eb-9f1c-476e1cbe9b55.png)
+
+
 I developed the code from scratch without using any libraries.
 
 The evaluation metric for this task is chosen as Accuracy.
